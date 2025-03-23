@@ -3,7 +3,7 @@
  * @Email: qizheng.wang@foxmail.com
  * @Date: 2025/3/22 下午11:04
  * @GitHub: https://github.com/buptwqz
- * @Description:
+ * @Description: 插入排序
  **/
 public class InsertionSort {
     public static void insertionSort(int[] arr) {
